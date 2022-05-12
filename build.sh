@@ -1,1 +1,1 @@
-retype build --host opensource.docs.devserv.me
+retype build --host opensource.docs.CRONje.ME

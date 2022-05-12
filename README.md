@@ -1,12 +1,12 @@
 ---
-title: Open Source - DEVserv.ME
+title: Open Source - CRONje.ME
 label: Open Source Stuff
 order: 100
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
+    email: charl@CRONje.ME
+    link: https://charl-cv.CRONje.ME
+    avatar: https://assets.CRONje.ME/avatars/darker.jpg
 tags: [open source,dev,software,contribute,js,php,firebase,mysql,oracle,log]
 ---
 
