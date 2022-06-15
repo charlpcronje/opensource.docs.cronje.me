@@ -28,13 +28,14 @@ tags: [open source,dev,software,contribute,js,php,firebase,mysql,oracle,log]
 
 ## Open Source Project Libraries 
 
+- [Some Open Source Libs you did not know about](oSourceYouDontKnow.md)
 - [Open source alternative](https://www.opensourcealternative.to)
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
 - [Introducing: Open Source Alternative To](https://www.crowd.dev/post/introducing-opensource-alternative-to)
 - [BTW - Open Source Alternatives](https://www.btw.so/open-source-alternatives)
 - [OpenMVPBox](https://github.com/Jazys/OpenMVPBox)
 - [PostgreSQL Database Management System](https://github.com/postgres/postgres)
-- [Awesome-Self Hosted](Awesome-Selfhosted)
+- [Awesome-Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 - [Welcome to the Wiki](https://wiki.r-selfhosted.com/)
 - [Linux Server IO Swag](https://docs.linuxserver.io/general/swag)
