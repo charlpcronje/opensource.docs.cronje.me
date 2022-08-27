@@ -4,6 +4,7 @@ url: https://opensource.docs.cronje.me
 branding:
   title: CRONje.ME Open Source
   label: Docs
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
